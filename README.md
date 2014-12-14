@@ -5,14 +5,23 @@ SCRYPT coin based on litecoin code.
 Insanity Coin Specifications:
 ================
 Trading abbreviation: INS
+
 Max total coins: 239234
+
 Block time: 12 hrs
+
 Coins per block: 1
+
 Maturity after: 1 block
+
 Premine: 5% (11961 coins)
+
 P2P port 11000
+
 RPC port 21000
+
 Seednode: 54.194.99.126
+
 (Please ensure that this line is included in the .conf file, particularly if you are using the source code: "addnode=54.194.99.126"  If you are getting a no genesis block error then this is usually the reason why)
 
 
